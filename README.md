@@ -1,2 +1,15 @@
-# Dennis-Snellenberg
-This project is created by Amarjeet Chaudhary, this is a practice project created for the final challenge at Sheryians Coding School Bhopal, Madhya Pradesh
+<a href="https://bdkong.com">
+    <img src="./files/header.png"  style="border-radius:20px"/>
+</a>
+
+<h1 align="center">Hello! I'm Adrianna Pinzariu 👋</h1>
+<p>
+
+I'm Adrianna, a passionate software engineer/quantitative researcher currently studying Computer Science at DePaul University. I find myself exploring new technologies and learning new concepts every day. I'm always looking for new opportunities to grow and expand my knowledge.
+
+</p>
+
+Over the years, I've gained proficiency in **Java**, **Python**, **C++**, **JS/TS**, and **R**, but I've also worked on several projects using **C#**, **Rust**, **Go**, **PHP**, and **Scala**. Naturally, I picked up different web frameworks such as **Django**, **ASP.NET**, **Flask**, **FastAPI**, **Next.js**, **GoFiber**, **Express**, and many more to come! 
+
+One of the areas I find particurly interesting is user authentication and exploring robust ways of protecting user privacy and security. 
+
