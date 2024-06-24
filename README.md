@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Adrianna Pinzariu 👋</h1>
 <p>
 
-I'm Adrianna, a passionate software engineer/quantitative researcher currently studying Computer Science at DePaul University. I find myself exploring new technologies and learning new concepts every day. I'm always looking for new opportunities to grow and expand my knowledge.
+I'm Adrianna, a passionate software engineer/quantitative researcher currently studying Computer Science at DePaul University. I find myself exploring new technologies and learning new concepts every day. I'm always looking for new opportunities to grow and expand my knowledge, particularly in OCaml.
 
 </p>
 
